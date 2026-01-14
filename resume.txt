@@ -1,0 +1,2 @@
+Python developer with knowledge of data analysis, machine learning,
+pandas, numpy and basic SQL.
